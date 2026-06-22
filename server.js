@@ -13,7 +13,7 @@ const inventory = [
 ];
 
 // TikTok Live configuration (set your live username here)
-const tiktokUsername = 'melcasulatan8'; // e.g. 'some_tiktok_user'
+const tiktokUsername = 'mamasangreco'; // e.g. 'some_tiktok_user'
 
 let tiktokConnection = null;
 
